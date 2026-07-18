@@ -14,7 +14,8 @@
 
 ### 🚀 Currently Focused On
 
-🌐 Frontend Development &nbsp;•&nbsp; 🐍 Python Programming &nbsp;•&nbsp; 🧩 Data Structures & Algorithms &nbsp;•&nbsp; 📂 Real-World Projects &nbsp;•&nbsp; 🤝 Hackathons & Team Collaboration
+🌐 Frontend Development &nbsp;•&nbsp; 🐍 Python Programming &nbsp;•&nbsp; 🧩 Data Structures & Algorithms &nbsp;•&nbsp; 📂 Real-World Projects &nbsp;•&nbsp; 
+🤝 Hackathons & Team Collaboration
 
 </div>
 
@@ -51,8 +52,9 @@
 
 You'll find my projects, LeetCode solutions, experiments with new technologies, and the journey of my continuous growth as a developer.
 
-> *"Discipline over motivation. Preparation over hesitation."*
+
+> *"Discipline > Motivation. While others search for opportunities, I build them."*
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

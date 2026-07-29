@@ -1,3 +1,4 @@
+<h1 align="center">Hi! I'm Shantanu Diwedi 👋</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/dark-1.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light-1.svg">
@@ -38,5 +39,12 @@
 <a href="shantanudiwedi2007@gmail.com.COM">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
+
+</div>
+<div align="center">
+
+## ⚡ Discipline > Motivation
+
+*"While others seek opportunities, I create them."*
 
 </div>

@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Shantanu Diwedi 👋</h1>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/dark-1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light-1.svg">
-  <img alt="Shantanu Diwedi" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light-1.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light.svg">
+  <img alt="Shantanu Diwedi" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light.svg">
 </picture>
 
 <div align="center">
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=10B981&labelColor=0A101F" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;
-<a href="shantanudiwedi2007@gmail.com">
+<a href="mailto:shantanudiwedi2007@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 

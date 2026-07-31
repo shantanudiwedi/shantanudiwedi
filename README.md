@@ -1,50 +1,58 @@
-<h1 align="center">Hi ! I'm Shantanu Diwedi 👋</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/dark-1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light-1.svg">
-  <img alt="Shantanu Diwedi" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light-1.svg">
-</picture>
-
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+# Hi 👋, I'm Shantanu Diwedi
+
+### Computer Science Engineering student driven by continuous growth, disciplined execution, and lifelong learning
+
+💻 I enjoy transforming ideas into projects, solving challenging problems through code, and pushing myself beyond my comfort zone every day.
+
+</div>
 
 <br/>
-<img width="49%" src="https://github-readme-stats-shantanu.vercel.app/api?username=shantanudiwedi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats-shantanu.vercel.app/api/top-langs/?username=shantanudiwedi&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
-
-</div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/github-snake.svg" />
-</picture>
+
+### 🚀 Currently Focused On
+
+🌐 Frontend Development &nbsp;•&nbsp; 🐍 Python Programming &nbsp;•&nbsp; 🧩 Data Structures & Algorithms &nbsp;•&nbsp; 📂 Real-World Projects &nbsp;•&nbsp; 🤝 Hackathons & Team Collaboration
+
 </div>
+
+<br/>
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shantanu-diwedi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/shantanu_diwedi/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/shantanudiwedi/">
-  <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=10B981&labelColor=0A101F" alt="LeetCode" />
-</a>
-&nbsp;&nbsp;
-<a href="shantanudiwedi2007@gmail.com.COM">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
+### 🐍 My Contribution Snake
+
+<img src="./snake-hi-coders.svg" alt="Snake eating the GitHub contribution graph and spelling HI CODERS!" width="100%"/>
 
 </div>
+
+<br/>
+
 <div align="center">
 
-## ⚡ Discipline > Motivation
+### 📊 GitHub Stats
 
-*"While others seek opportunities, I create them."*
+<img src="https://github-readme-stats.shion.dev/api?username=shantanudiwedi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="Shantanu's GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=shantanudiwedi&theme=highcontrast&hide_border=false" alt="Shantanu's GitHub streak" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantanudiwedi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="Shantanu's top languages" height="165"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+### 📂 On My GitHub
+
+You'll find my projects, LeetCode solutions, experiments with new technologies, and the journey of my continuous growth as a developer.
+
+> *"Discipline over motivation. Preparation over hesitation."*
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

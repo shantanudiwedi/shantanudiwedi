@@ -1,4 +1,4 @@
-<h1 align="center">Hi ! I'm Shantanu Diwedi 👋</h1>
+<h1 align="center">Hi! I'm Shantanu Diwedi 👋</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light.svg">

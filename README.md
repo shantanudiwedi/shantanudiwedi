@@ -11,7 +11,7 @@
 
 <br/>
 <img width="49%" src="https://github-readme-stats-shantanu.vercel.app/api?username=shantanudiwedi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="![Top Langs](https://github-readme-stats-shantanu.vercel.app/api/top-langs/?username=shantanudiwedi&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&cache_seconds=1&card_width=500)" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-shantanu.vercel.app/api/top-langs/?username=shantanudiwedi&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&cache_seconds=1&card_width=500" alt="top langs" />
 
 </div>
 

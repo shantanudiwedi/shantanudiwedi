@@ -63,22 +63,29 @@
 ## 📈 Problem Solving
 
 **100+ problems solved on LeetCode · 50+ day streak.** Practicing DSA every day so problem solving becomes a habit, not a last-minute sprint before interviews.
-<div align="center">
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 <a href="https://leetcode.com/u/shantanudiwedi/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/shantanudiwedi?theme=dark&font=Karla&ext=heatmap">
   <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/shantanudiwedi?theme=light&font=Karla&ext=heatmap">
-  <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/shantanudiwedi?theme=dark&font=Karla&ext=heatmap" width="49%" />
+  <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/shantanudiwedi?theme=dark&font=Karla&ext=heatmap" width="100%" />
 </picture>
 </a>
+</td>
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/shantanudiwedi">
-  <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=1A1A1A&stroke=FFA116&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&font=Karla" width="49%" />
+  <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=1A1A1A&stroke=FFA116&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&font=Karla" width="100%" />
 </a>
 <br/>
 <a href="https://github.com/shantanudiwedi">
-  <img alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/FFA116/shantanudiwedi" width="98%" />
+  <img alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/FFA116/shantanudiwedi" width="90%" />
 </a>
-</div>
+</td>
+</tr>
+</table>
 ## 🎓 Education
 
 B.Tech Computer Science, MIT ADT University (2025 – present)

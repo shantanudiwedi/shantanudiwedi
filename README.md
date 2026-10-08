@@ -63,7 +63,6 @@
 ## 📈 Problem Solving
 
 **100+ problems solved on LeetCode · 50+ day streak.** Practicing DSA every day so problem solving becomes a habit, not a last-minute sprint before interviews.
-
 <div align="center">
 <a href="https://leetcode.com/u/shantanudiwedi/">
 <picture>
@@ -74,6 +73,10 @@
 </a>
 <a href="https://github.com/shantanudiwedi">
   <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="49%" />
+</a>
+<br/>
+<a href="https://github.com/shantanudiwedi">
+  <img alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/22D3EE/shantanudiwedi" width="98%" />
 </a>
 </div>
 

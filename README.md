@@ -1,4 +1,13 @@
 <h1 align="center">Shantanu Diwedi</h1>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light.svg">
+  <img alt="Shantanu Diwedi" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light.svg">
+</picture>
+</div>
+
 <p align="center">
   <b>I'm Shantanu. B.Tech CS @ MIT ADT University (2025 – Present). Building AI, IoT and GovTech projects.</b><br/>
   <b>I don't wait to be ready. I start, and I keep fixing until it works. Open to internships.</b>
@@ -34,19 +43,18 @@ A wearable for patients, people with limited mobility, and infants. It detects a
 
 **BharatSetu: AI Bid Compliance Verification for GeM** (team project, Smart India Hackathon 2026, PS 26100)
 A platform that verifies procurement bids for compliance. Built with AI/ML, OCR, NLP and a rules engine.
-`AI/ML` · `OCR` · `NLP` · `Rules Engine` · [Repo](LINK)
+`AI/ML` · `OCR` · `NLP` · `Rules Engine`
 
 **Agni Twin** (team project, Smart India Hackathon 2026, PS 26120)
-[ONE LINE: what problem it solves and for whom]. [ONE LINE: how it works / what you built].
-`[your stack]` · [Repo](LINK)
+Built alongside BharatSetu for a second SIH problem statement. PPT and prototype coming soon.
 
 **TenderAI: Tender Intelligence for GovTech** (pitched at Redrob's India.Runs Ideathon)
-Helps businesses find and win government tenders using AI. The 6-page UI prototype (dashboard, tender search, bid tracking, analytics with live charts, alerts, settings) is built from scratch and live. Backend is in progress.
-`HTML` · `CSS` · `JavaScript` · [Live demo](LINK) · [Repo](LINK)
+Helps businesses find and win government tenders using AI. The 6-page UI prototype (dashboard, tender search, bid tracking, analytics with live charts, alerts, settings) is built from scratch. Backend is in progress.
+`HTML` · `CSS` · `JavaScript`
 
 **3-Stage DSA Practice Engine** (college PBL project, MVP in progress)
 Existing platforms only say Accepted or Wrong Answer. This one checks *where* you're stuck, logic or code: explain the approach, fill a skeleton, then write the full solution. A wrong attempt routes you to a sub-problem that rebuilds the missing skill.
-`Rule-based engine` · [Repo](LINK)
+`Rule-based engine`
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +66,7 @@ Existing platforms only say Accepted or Wrong Answer. This one checks *where* yo
 
 ## 📈 Problem Solving
 
-Daily DSA on LeetCode: **[X] problems solved, [X]-day max streak**. Stacks and Binary Search done, currently on Linked Lists. I focus on patterns, not just getting accepted.
+Daily DSA on LeetCode. Stacks and Binary Search done, currently on Linked Lists. I focus on patterns, not just getting accepted.
 
 <div align="center">
 

@@ -81,7 +81,7 @@
 </a>
 <br/>
 <a href="https://github.com/shantanudiwedi">
-  <img alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/2ea043/shantanudiwedi" width="90%" />
+  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shantanudiwedi&bg_color=0d1117&color=39d353&line=26a641&point=ffffff&area=true&area_color=0e4429&hide_border=true&hide_title=true&height=180" width="100%" />
 </a>
 </td>
 </tr>

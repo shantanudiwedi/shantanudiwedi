@@ -69,15 +69,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/shantanudiwedi?theme=dark&font=Karla&ext=heatmap">
   <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/shantanudiwedi?theme=light&font=Karla&ext=heatmap">
-  <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/shantanudiwedi?theme=dark&font=Karla&ext=heatmap" width="75%" />
+  <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/shantanudiwedi?theme=dark&font=Karla&ext=heatmap" width="49%" />
 </picture>
 </a>
-<br/>
 <a href="https://github.com/shantanudiwedi">
-  <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="75%" />
+  <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="49%" />
 </a>
 </div>
-
 
 ## 🎓 Education
 

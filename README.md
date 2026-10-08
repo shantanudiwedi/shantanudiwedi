@@ -16,13 +16,8 @@
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/github-snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/github-snake.svg?v=2" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/github-snake.svg?v=2" width="100%" />
-</picture>
+  <img alt="SHANTANU snake" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/text-snake.svg?v=3" width="100%" />
 </div>
-<div align="center">
 
 <a href="https://www.linkedin.com/in/shantanu-diwedi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

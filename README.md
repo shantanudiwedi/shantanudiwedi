@@ -75,7 +75,7 @@
 </picture>
 </a>
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="center" align="center">
 <a href="https://github.com/shantanudiwedi">
   <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=1A1A1A&stroke=FFA116&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&font=Karla" width="100%" />
 </a>

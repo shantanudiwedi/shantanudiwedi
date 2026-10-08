@@ -62,7 +62,7 @@
 
 ## 📈 Problem Solving
 
-Daily DSA on LeetCode. Stacks and Binary Search done, currently on Linked Lists. I focus on patterns, not just getting accepted.
+Practicing DSA every day so problem solving becomes a habit, not a last-minute sprint before interviews.
 
 <div align="center">
 

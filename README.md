@@ -81,11 +81,12 @@
 </a>
 <br/>
 <a href="https://github.com/shantanudiwedi">
-  <img alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/FFA116/shantanudiwedi" width="90%" />
+  <img alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/2ea043/shantanudiwedi" width="90%" />
 </a>
 </td>
 </tr>
 </table>
+
 ## 🎓 Education
 
 B.Tech Computer Science, MIT ADT University (2025 – present)

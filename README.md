@@ -72,14 +72,13 @@
 </picture>
 </a>
 <a href="https://github.com/shantanudiwedi">
-  <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="49%" />
+  <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=1A1A1A&stroke=FFA116&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&font=Karla" width="49%" />
 </a>
 <br/>
 <a href="https://github.com/shantanudiwedi">
-  <img alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/22D3EE/shantanudiwedi" width="98%" />
+  <img alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/FFA116/shantanudiwedi" width="98%" />
 </a>
 </div>
-
 ## 🎓 Education
 
 B.Tech Computer Science, MIT ADT University (2025 – present)

@@ -39,25 +39,37 @@
 
 ### 🆘 Senior Safe Tech: Fall Detection & Alert System
 *Solo project · Embedded*
-**Problem:** patients, people with limited mobility and infants can't call for help after a fall. **Solution:** a wearable that detects the fall, sounds an alarm, and sends an SOS SMS and call if it isn't cancelled in 10 seconds.
+
+**Problem:** Patients, people with limited mobility and infants can't call for help after a fall.
+
+**Solution:** A wearable that detects the fall, sounds an alarm, and sends an SOS SMS and call if it isn't cancelled in 10 seconds.
+
 `ESP8266` · `ADXL345` · `SIM800C GSM` · `Arduino (C++)` · [Code](https://github.com/shantanudiwedi/senior-safe-tech)
 
 ### 📑 BharatSetu: AI Bid Compliance Verification
-*Team project · Team lead · Shortlisted in top 100 of 1000+ teams, Internal SIH 2026 @MIT ADT
-**Problem:** government procurement bids have to be checked for compliance, which is slow and error-prone. **Solution:** OCR reads the bid documents, then NLP and a rules engine verify compliance automatically.
-`AI/ML` · `OCR` · `NLP` · [Code](https://github.com/shantanudiwedi/BharatSetu-II)
+*Team project · Team lead · Shortlisted in top 100 of 1000+ teams, Internal SIH 2026 @ MIT ADT*
+
+**Problem:** Government procurement bids have to be checked for compliance, which is slow and error-prone.
+
+**Solution:** OCR extracts the text from bid documents, then NLP and a rules engine automatically flag missing or non-compliant items.
+
+`AI/ML` · `OCR` · `NLP` · `Rules Engine` · [Code](https://github.com/shantanudiwedi/BharatSetu-II)
 
 ### 🔥 Agni Twin: Digital Twin for Heavy-Oil Wells
 *Team project · Team lead*
-**Problem:** steam injection and pump settings are decided separately, which wastes steam and causes rod and pump failures. **Solution:** an AI digital twin that links the two and recommends settings for maximum oil within what the pump can safely handle.
+
+**Problem:** Steam injection and pump settings are decided separately, which wastes steam and causes rod and pump failures.
+
+**Solution:** An AI digital twin that links the two and recommends settings for maximum oil within what the pump can safely handle.
+
 `Python` · `AI/ML` · `Digital Twin` · [Code](https://github.com/shantanudiwedi/Agni-Twin)
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C++
-**Web:** HTML · CSS
-**Hardware:** ESP8266 · ADXL345 · SIM800C GSM
-**Tools:** Git · GitHub Actions · Arduino IDE
+**Languages:** Python · C++  
+**Web:** HTML · CSS  
+**Hardware:** ESP8266 · ADXL345 · SIM800C GSM  
+**Tools:** Git · GitHub Actions · Arduino IDE  
 **Learning:** SQL
 
 ## 📈 Problem Solving
@@ -76,6 +88,7 @@
 </a>
 </td>
 <td width="50%" valign="center" align="center">
+<a href="https://github.com/shantanudiwedi"><b>GitHub</b></a><br/><br/>
 <a href="https://github.com/shantanudiwedi">
   <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=1A1A1A&stroke=FFA116&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&font=Karla" width="100%" />
 </a>

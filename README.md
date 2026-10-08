@@ -43,6 +43,8 @@
 `ESP8266` · `ADXL345` · `SIM800C GSM` · `Arduino (C++)` · [Code](https://github.com/shantanudiwedi/senior-safe-tech)
 
 ### 📑 BharatSetu: AI Bid Compliance Verification
+## 🏆 Recognition
+Shortlisted in the **top 100** of 1000+ teams in the internal Smart India Hackathon 2026 round at MIT ADT University.
 *Team project · Team lead*
 **Problem:** government procurement bids have to be checked for compliance, which is slow and error-prone. **Solution:** OCR reads the bid documents, then NLP and a rules engine verify compliance automatically.
 `AI/ML` · `OCR` · `NLP` · [Code](https://github.com/shantanudiwedi/BharatSetu-II)

@@ -43,31 +43,35 @@
 `ESP8266` · `ADXL345` · `SIM800C GSM` · `Arduino (C++)` · [Code](https://github.com/shantanudiwedi/senior-safe-tech)
 
 ### 📑 BharatSetu: AI Bid Compliance Verification
-*Team project*
+*Team project · Team lead*
 **Problem:** government procurement bids have to be checked for compliance, which is slow and error-prone. **Solution:** OCR reads the bid documents, then NLP and a rules engine verify compliance automatically.
 `AI/ML` · `OCR` · `NLP` · [Code](https://github.com/shantanudiwedi/BharatSetu-II)
 
 ### 🔥 Agni Twin: Digital Twin for Heavy-Oil Wells
-*Team project*
+*Team project · Team lead*
 **Problem:** steam injection and pump settings are decided separately, which wastes steam and causes rod and pump failures. **Solution:** an AI digital twin that links the two and recommends settings for maximum oil within what the pump can safely handle.
-`Python` · `FastAPI` · `React` · `scikit-learn` · [Code](https://github.com/shantanudiwedi/Agni-Twin)
+`Python` · `AI/ML` · `Digital Twin` · [Code](https://github.com/shantanudiwedi/Agni-Twin)
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C++ · JavaScript · SQL
+**Languages:** Python · C++
 **Web:** HTML · CSS
-**AI:** OCR · NLP · rules-based systems
 **Hardware:** ESP8266 · ADXL345 · SIM800C GSM
 **Tools:** Git · GitHub Actions · Arduino IDE
+**Learning:** SQL
 
 ## 📈 Problem Solving
 
-Practicing DSA every day so problem solving becomes a habit, not a last-minute sprint before interviews.
+**100+ problems solved on LeetCode · 50+ day streak.** Practicing DSA every day so problem solving becomes a habit, not a last-minute sprint before interviews.
 
 <div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-
+<a href="https://leetcode.com/u/shantanudiwedi/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/shantanudiwedi?theme=dark&font=Karla&ext=heatmap">
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/shantanudiwedi?theme=light&font=Karla&ext=heatmap">
+  <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/shantanudiwedi?theme=dark&font=Karla&ext=heatmap" width="75%" />
+</picture>
+</a>
 </div>
 
 ## 🎓 Education

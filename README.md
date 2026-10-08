@@ -1,5 +1,10 @@
 <h1 align="center">Shantanu Diwedi</h1>
 
+<p align="center">
+  <b>B.Tech CS @ MIT ADT University (2025 – Present). Building AI, IoT and GovTech projects.</b><br/>
+  <b>I don't wait to be ready. I start, and I keep fixing until it works. Open to internships.</b>
+</p>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/dark.svg">
@@ -7,11 +12,6 @@
   <img alt="Shantanu Diwedi" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light.svg">
 </picture>
 </div>
-
-<p align="center">
-  <b>I'm Shantanu. B.Tech CS @ MIT ADT University (2025 – Present). Building AI, IoT and GovTech projects.</b><br/>
-  <b>I don't wait to be ready. I start, and I keep fixing until it works. Open to internships.</b>
-</p>
 
 <div align="center">
   <img alt="Hey Builders snake" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/text-snake.svg?v=4" width="100%" />

@@ -14,13 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#7C3AED&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-snake-dark.svg?color_snake=#A78BFA&color_dots=#151b23,#033a16,#196c2e,#2ea043,#56d364
+      - uses: actions/checkout@v4
+
+      - name: Generate text snake
+        run: python scripts/text_snake.py
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

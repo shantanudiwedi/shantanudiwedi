@@ -79,10 +79,6 @@
 <a href="https://github.com/shantanudiwedi">
   <img alt="GitHub contributions" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=1A1A1A&stroke=FFA116&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&font=Karla" width="100%" />
 </a>
-<br/>
-<a href="https://github.com/shantanudiwedi">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shantanudiwedi&bg_color=0d1117&color=39d353&line=26a641&point=ffffff&area=true&area_color=0e4429&hide_border=true&hide_title=true&height=180" width="100%" />
-</a>
 </td>
 </tr>
 </table>

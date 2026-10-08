@@ -1,7 +1,7 @@
 <h1 align="center">Shantanu Diwedi</h1>
 
 <p align="center">
-  <b> B.Tech CS @ MIT ADT University (2025 – Present). Building AI, IoT and GovTech projects.</b><br/>
+  <b>B.Tech CS @ MIT ADT University (2025 – Present). Building AI, IoT and GovTech projects.</b><br/>
   <b>I don't wait to be ready. I start, and I keep fixing until it works. Open to internships.</b>
 </p>
 
@@ -39,4 +39,41 @@
 
 ### 🆘 Senior Safe Tech: Fall Detection & Alert System
 *Solo project · Embedded*
-**Problem:** patients, people with limited mobility and infants can't call for help after a fall. **Solution:** a wearable that detects the fall, sounds an
+**Problem:** patients, people with limited mobility and infants can't call for help after a fall. **Solution:** a wearable that detects the fall, sounds an alarm, and sends an SOS SMS and call if it isn't cancelled in 10 seconds.
+`ESP8266` · `ADXL345` · `SIM800C GSM` · `Arduino (C++)` · [Code](https://github.com/shantanudiwedi/senior-safe-tech)
+
+### 📑 BharatSetu: AI Bid Compliance Verification
+*Team project*
+**Problem:** government procurement bids have to be checked for compliance, which is slow and error-prone. **Solution:** OCR reads the bid documents, then NLP and a rules engine verify compliance automatically.
+`AI/ML` · `OCR` · `NLP` · [Code](https://github.com/shantanudiwedi/BharatSetu-II)
+
+### 🔥 Agni Twin: Digital Twin for Heavy-Oil Wells
+*Team project*
+**Problem:** steam injection and pump settings are decided separately, which wastes steam and causes rod and pump failures. **Solution:** an AI digital twin that links the two and recommends settings for maximum oil within what the pump can safely handle.
+`Python` · `FastAPI` · `React` · `scikit-learn` · [Code](https://github.com/shantanudiwedi/Agni-Twin)
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C++ · JavaScript · SQL
+**Web:** HTML · CSS
+**AI:** OCR · NLP · rules-based systems
+**Hardware:** ESP8266 · ADXL345 · SIM800C GSM
+**Tools:** Git · GitHub Actions · Arduino IDE
+
+## 📈 Problem Solving
+
+Daily DSA on LeetCode. Stacks and Binary Search done, currently on Linked Lists. I focus on patterns, not just getting accepted.
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=shantanudiwedi&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+
+</div>
+
+## 🎓 Education
+
+B.Tech Computer Science, MIT ADT University (2025 – present)
+
+## 📬 Let's talk
+
+Looking for a **software / AI internship**. Email is the fastest way to reach me: shantanudiwedi2007@gmail.com

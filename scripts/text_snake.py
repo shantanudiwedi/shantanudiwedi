@@ -1,19 +1,24 @@
 import os
 
 FONT = {
-    "S": [".####", "#....", "#....", ".###.", "....#", "....#", "####."],
     "H": ["#...#", "#...#", "#...#", "#####", "#...#", "#...#", "#...#"],
-    "A": [".###.", "#...#", "#...#", "#####", "#...#", "#...#", "#...#"],
-    "N": ["#...#", "##..#", "#.#.#", "#.#.#", "#.#.#", "#..##", "#...#"],
-    "T": ["#####", "..#..", "..#..", "..#..", "..#..", "..#..", "..#.."],
+    "E": ["#####", "#....", "#....", "####.", "#....", "#....", "#####"],
+    "Y": ["#...#", "#...#", ".#.#.", "..#..", "..#..", "..#..", "..#.."],
+    "B": ["####.", "#...#", "#...#", "####.", "#...#", "#...#", "####."],
     "U": ["#...#", "#...#", "#...#", "#...#", "#...#", "#...#", ".###."],
+    "I": ["#####", "..#..", "..#..", "..#..", "..#..", "..#..", "#####"],
+    "L": ["#....", "#....", "#....", "#....", "#....", "#....", "#####"],
+    "D": ["####.", "#...#", "#...#", "#...#", "#...#", "#...#", "####."],
+    "R": ["####.", "#...#", "#...#", "####.", "#.#..", "#..#.", "#...#"],
+    "S": [".####", "#....", "#....", ".###.", "....#", "....#", "####."],
+    " ": ["....."] * 7,
 }
-TEXT = "SHANTANU"
-COLS, ROWS = 53, 11
+TEXT = "HEY BUILDERS"
+COLS, ROWS = 75, 11
 TOP = 2
-CELL, GAP, PAD = 12, 3, 20
+CELL, GAP, PAD = 10, 2, 16
 P = CELL + GAP
-STEP = 0.08
+STEP = 0.06
 BG, EMPTY = "#0d1117", "#151b23"
 LIT = ["#196c2e", "#2ea043", "#56d364"]
 SNAKE = ["#C4B5FD", "#A78BFA", "#8B5CF6", "#7C3AED", "#6D28D9"]
@@ -50,9 +55,9 @@ for c in range(COLS):
         x, y = PAD + c * P, PAD + r * P
         if (c, r) in lit:
             col = LIT[(c * 3 + r) % 3]
-            out.append(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="3" fill="{col}"/>')
+            out.append(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="2" fill="{col}"/>')
         else:
-            out.append(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="3" fill="{EMPTY}"/>')
+            out.append(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="2" fill="{EMPTY}"/>')
 
 for k in range(len(SNAKE) - 1, -1, -1):
     xs, ys = [], []
@@ -61,7 +66,7 @@ for k in range(len(SNAKE) - 1, -1, -1):
         xs.append(str(PAD + c * P))
         ys.append(str(PAD + r * P))
     out.append(
-        f'<rect x="-50" y="-50" width="{CELL}" height="{CELL}" rx="3" fill="{SNAKE[k]}">'
+        f'<rect x="-50" y="-50" width="{CELL}" height="{CELL}" rx="2" fill="{SNAKE[k]}">'
         f'<animate attributeName="x" calcMode="discrete" dur="{DUR}s" repeatCount="indefinite" values="{";".join(xs)}"/>'
         f'<animate attributeName="y" calcMode="discrete" dur="{DUR}s" repeatCount="indefinite" values="{";".join(ys)}"/>'
         f'</rect>'

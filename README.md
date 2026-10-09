@@ -70,6 +70,14 @@ Team project · Team lead
 
 Python · AI/ML · Digital Twin · Code
 
+## 🛠️ Tech Stack
+
+**Languages:** Python · C++ · JavaScript <br/>
+**AI/ML:** OCR · NLP · Rules Engine <br/>
+**Embedded/IoT:** ESP8266 · Arduino · ADXL345 · SIM800C GSM <br/>
+**Web:** HTML · CSS <br/>
+**Tools:** Git · GitHub · LeetCode
+
 ## 📈 Problem Solving
 
 120+ problems solved on LeetCode · Longest streak: 55 days. Building the habit now, not a last-minute sprint before interviews.

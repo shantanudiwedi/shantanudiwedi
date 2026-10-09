@@ -43,7 +43,7 @@ Solo project · Embedded
 
 <!-- After testing, add this line (real numbers only): **Result:** Detected X/N simulated falls · SOS delivered in Y sec · [Demo](link) -->
 
-ESP8266 · ADXL345 · SIM800C GSM · Arduino (C++) · [Code](https://github.com/shantanudiwedi/fall-detector)
+ESP8266 · ADXL345 · SIM800C GSM · Arduino (C++) · [Code](https://github.com/shantanudiwedi/senior-safe-tech)
 
 #### 📑 BharatSetu: AI Bid Compliance Verification
 
@@ -57,7 +57,7 @@ Team project · Team lead · Shortlisted in top 100 of 1000+ teams, Internal SIH
 
 AI/ML · OCR · NLP · Rules Engine · [Code](https://github.com/shantanudiwedi/bharatsetu-II)
 
-#### 🔥 Agni Twin: Digital Twin for Heavy-Oil Wells
+#### 🔥 Agni-Twin: Digital Twin for Heavy-Oil Wells
 
 Team project · Team lead
 
@@ -76,7 +76,7 @@ Python · AI/ML · Digital Twin · [Code](https://github.com/shantanudiwedi/Agni
 **AI/ML:** OCR · NLP · Rules Engine <br/>
 **Embedded/IoT:** ESP8266 · Arduino · ADXL345 · SIM800C GSM <br/>
 **Web:** HTML · CSS <br/>
-**Tools:** Git · GitHub · LeetCode
+**Tools:** Git · GitHub 
 
 ## 📈 Problem Solving
 

@@ -1,8 +1,8 @@
 <h1 align="center">Shantanu Diwedi</h1>
 
 <p align="center">
-  <b>B.Tech CS @ MIT ADT University (2025 – Present). Building AI, IoT and GovTech projects.</b><br/>
-  <b>I don't wait to be ready. I start, and I keep fixing until it works. Open to internships.</b>
+  <b>B.Tech CSE @ MIT ADT University (2025 – Present). Building AI, IoT and GovTech projects.</b><br/>
+  <b>I don't wait to be ready. I start, and I keep fixing until it works. Open to SWE/AI internships.</b>
 </p>
 
 <div align="center">
@@ -11,10 +11,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light.svg">
   <img alt="Shantanu Diwedi" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/main/light.svg">
 </picture>
-</div>
-
-<div align="center">
-  <img alt="Hey Builders snake" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/text-snake.svg?v=4" width="100%" />
 </div>
 
 <div align="center">
@@ -40,9 +36,13 @@
 ### 🆘 Senior Safe Tech: Fall Detection & Alert System
 *Solo project · Embedded*
 
-**Problem:** Patients, people with limited mobility and infants can't call for help after a fall.
+**Problem:** Elderly people and patients with limited mobility often can't call for help after a fall.
 
 **Solution:** A wearable that detects the fall, sounds an alarm, and sends an SOS SMS and call if it isn't cancelled in 10 seconds.
+
+<!-- After testing, add this line (real numbers only):
+**Result:** Detected X/N simulated falls · SOS delivered in Y sec · [Demo](link)
+-->
 
 `ESP8266` · `ADXL345` · `SIM800C GSM` · `Arduino (C++)` · [Code](https://github.com/shantanudiwedi/senior-safe-tech)
 
@@ -53,6 +53,10 @@
 
 **Solution:** OCR extracts the text from bid documents, then NLP and a rules engine automatically flag missing or non-compliant items.
 
+<!-- After testing, add this line (real numbers only):
+**Result:** Processed N sample bids · flagged X compliance checks · Y sec per document · [Screenshots](link)
+-->
+
 `AI/ML` · `OCR` · `NLP` · `Rules Engine` · [Code](https://github.com/shantanudiwedi/BharatSetu-II)
 
 ### 🔥 Agni Twin: Digital Twin for Heavy-Oil Wells
@@ -62,19 +66,14 @@
 
 **Solution:** An AI digital twin that links the two and recommends settings for maximum oil within what the pump can safely handle.
 
+<!-- After testing, add a Result line with your module's actual output. -->
+
+<!-- When your own Agni-Twin repo is ready, replace the Code link below with its URL. -->
 `Python` · `AI/ML` · `Digital Twin` · [Code](https://github.com/shantanudiwedi/Agni-Twin)
-
-## 🛠️ Tech Stack
-
-**Languages:** Python · C++  
-**Web:** HTML · CSS  
-**Hardware:** ESP8266 · ADXL345 · SIM800C GSM  
-**Tools:** Git · GitHub Actions · Arduino IDE  
-**Learning:** SQL
 
 ## 📈 Problem Solving
 
-**100+ problems solved on LeetCode · 50+ day streak.** Practicing DSA every day so problem solving becomes a habit, not a last-minute sprint before interviews.
+**120+ problems solved on LeetCode · Longest streak: 55 days.** Building the habit now, not a last-minute sprint before interviews.
 
 <table align="center" width="100%">
 <tr>
@@ -101,8 +100,12 @@
 
 ## 🎓 Education
 
-B.Tech Computer Science, MIT ADT University (2025 – present)
+B.Tech CSE, MIT ADT University (2025 – 2029) · CGPA 8.7+ (Year 1) · Rank 2 in SY department merit list
 
 ## 📬 Let's talk
 
 Looking for a **software / AI internship**. Email is the fastest way to reach me: shantanudiwedi2007@gmail.com
+
+<div align="center">
+  <img alt="Hey Builders snake" src="https://raw.githubusercontent.com/shantanudiwedi/shantanudiwedi/output/text-snake.svg?v=4" width="100%" />
+</div>

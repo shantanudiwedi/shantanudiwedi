@@ -98,8 +98,7 @@ Python · AI/ML · Digital Twin · Code
 </table>
 
 ## 🎓 Education
-
-B.Tech CSE, MIT ADT University (2025 – 2029) · CGPA 8.7+ (Year 1) · Rank 2 in SY department merit list
+B.Tech CSE, MIT ADT University (2025 – 2029) · CGPA 8.81 (Year 1)
 
 ## 📬 Let's talk
 

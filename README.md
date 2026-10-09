@@ -43,7 +43,7 @@ Solo project · Embedded
 
 <!-- After testing, add this line (real numbers only): **Result:** Detected X/N simulated falls · SOS delivered in Y sec · [Demo](link) -->
 
-ESP8266 · ADXL345 · SIM800C GSM · Arduino (C++) · Code
+ESP8266 · ADXL345 · SIM800C GSM · Arduino (C++) · [Code](https://github.com/shantanudiwedi/fall-detector)
 
 #### 📑 BharatSetu: AI Bid Compliance Verification
 
@@ -55,7 +55,7 @@ Team project · Team lead · Shortlisted in top 100 of 1000+ teams, Internal SIH
 
 <!-- After testing, add this line (real numbers only): **Result:** Processed N sample bids · flagged X compliance checks · Y sec per document · [Screenshots](link) -->
 
-AI/ML · OCR · NLP · Rules Engine · Code
+AI/ML · OCR · NLP · Rules Engine · [Code](https://github.com/shantanudiwedi/bharatsetu-II)
 
 #### 🔥 Agni Twin: Digital Twin for Heavy-Oil Wells
 
@@ -68,7 +68,7 @@ Team project · Team lead
 <!-- After testing, add a Result line with your module's actual output. -->
 <!-- When your own Agni-Twin repo is ready, replace the Code link below with its URL. -->
 
-Python · AI/ML · Digital Twin · Code
+Python · AI/ML · Digital Twin · [Code](https://github.com/shantanudiwedi/Agni-Twin)
 
 ## 🛠️ Tech Stack
 
@@ -106,7 +106,7 @@ Python · AI/ML · Digital Twin · Code
 </table>
 
 ## 🎓 Education
-B.Tech CSE, MIT ADT University (2025 – 2029) · CGPA 8.81 (Year 1)
+B.Tech CSE, MIT ADT University (2025 – 2029), Pune · CGPA 8.81 (Year 1)
 
 ## 📬 Let's talk
 

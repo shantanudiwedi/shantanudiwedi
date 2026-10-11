@@ -19,7 +19,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/shantanudiwedi/">
-    <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&labelColor=0A101F&color=0A101F" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:shantanudiwedi2007@gmail.com">

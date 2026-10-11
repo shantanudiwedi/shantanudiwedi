@@ -15,19 +15,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shantanu-diwedi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/shantanudiwedi/">
-    <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:shantanudiwedi2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/shantanudiwedi/shantanudiwedi/blob/main/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-0A101F?style=for-the-badge" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge" alt="Resume" />
   </a>
 </div>
 

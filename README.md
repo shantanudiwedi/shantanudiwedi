@@ -14,12 +14,12 @@
 </div>
 
 <div align="center">
-  <a href="https://leetcode.com/u/shantanudiwedi/">
-    <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=10B981&labelColor=0A101F" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shantanu-diwedi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/shantanudiwedi/">
+    <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&labelColor=0A101F&color=0A101F" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:shantanudiwedi2007@gmail.com">

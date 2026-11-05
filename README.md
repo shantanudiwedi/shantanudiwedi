@@ -56,19 +56,17 @@ Team project · Team lead · Shortlisted in top 100 of 1000+ teams, Internal SIH
 
 AI/ML · OCR · NLP · Rules Engine · [Code](https://github.com/shantanudiwedi/bharatsetu-II)
 
-#### 🔥 Agni-Twin: Digital Twin for Heavy-Oil Wells
+#### ☀️ GoSolar: Rooftop Solar Subsidy Assistant
 
-Team project · Team lead
+Team project · Ranked #13 nationally, National Agentic AI Hackathon 2026
 
-**Problem:** Steam injection and pump settings are decided separately, which wastes steam and causes rod and pump failures.
+**Problem:** Applying for rooftop solar subsidies is confusing. Homeowners struggle with eligibility rules, vendor checks and paperwork.
 
-**Solution:** An AI digital twin that links the two and recommends settings for maximum oil within what the pump can safely handle.
+**Solution:** An agentic AI assistant that guides a homeowner through the assessment, checks the scheme and vendor conditions, and prepares a draft that waits for human approval before any simulated submission.
 
-<!-- After testing, add a Result line with your module's actual output. -->
-<!-- When your own Agni-Twin repo is ready, replace the Code link below with its URL. -->
+**Result:** Ranked #13 in the National Qualification Round with an evaluation score of 150/180.
 
-Python · AI/ML · Digital Twin · [Code](https://github.com/shantanudiwedi/Agni-Twin)
-
+Python · FastAPI · LangGraph · React · TypeScript · [Code](https://github.com/shantanudiwedi/GoSolar_Subsidy_Assistant) · [Live demo](https://rooftop-solar-subsidy-agent.vercel.app/)
 ## 🛠️ Tech Stack
 
 **Languages:** Python · C++ · JavaScript <br/>
